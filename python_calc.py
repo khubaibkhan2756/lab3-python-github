@@ -52,7 +52,7 @@ def even_odd():
 
 def main():
     while True:
-        print("\nPython Calculator\n")
+        print("\n Welcome to Python Calculator\n")
         print("1. Addition")
         print("2. Subtraction")
         print("3. Multiplication")
